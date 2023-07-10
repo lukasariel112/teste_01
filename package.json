@@ -1,0 +1,17 @@
+{
+    "name": "teste_01",
+    "version": "1.0.0",
+    "description": "teste ",
+    "main": "index.js",
+    "scripts": {
+      "test": "node index.test | tap-spec"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies" :{
+    "tape-spec" :"^5.0.0",
+    "tape": "^5.5.3"
+
+    }
+  }
+  
